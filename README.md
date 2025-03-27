@@ -11,8 +11,8 @@ A Power BI dashboard analyzing pizza sales from Jan 15 – Dec 15.
 ---
 ## 🔍 Key Insights
 
-- 📅 **Busiest Days**: Orders peak on Fridays and Saturdays.
-- 📈 **Top Month**: July has the highest number of total orders.
+- 📅 **Busiest Days**: Orders peak on Thursday, Fridays and Saturdays.
+- 📈 **Top Month**: July and January has the highest number of total orders.
 - 🍕 **Best-Selling Category**: Classic pizzas dominate sales.
 - 🍕 **Best Size Performer**: Large pizzas contribute to maximum revenue.
 
